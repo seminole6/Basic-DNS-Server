@@ -1,0 +1,14 @@
+(lp0
+(irecord
+record
+p1
+(dp2
+S'name'
+p3
+S'google.com'
+p4
+sS'value'
+p5
+S'123.45.67.890'
+p6
+sba.
